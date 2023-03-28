@@ -9,6 +9,6 @@ Top2Vec (2020): https://doi.org/10.48550/arXiv.2008.09470
 
 CTM: Contextualized Topic Models (2021): https://aclanthology.org/2021.acl-short.96
 
-BERTopic (2022): https://aclanthology.org/2021.acl-short.96
+BERTopic (2022): https://doi.org/10.48550/arXiv.2203.05794
 
 
