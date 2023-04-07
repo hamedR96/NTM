@@ -1,4 +1,4 @@
-# Neural Topic Models
+# Implementation of Recent Neural Topic Models
 Recent Neural Topic Models for 20Newsgroup Corpus:
 
 ETM: Embedded Topic models (2019) https://doi.org/10.1162/tacl_a_00325 
